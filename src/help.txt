@@ -1,0 +1,8 @@
+Project Setup :
+
+https://www.valentinog.com/blog/webpack-4-tutorial/
+
+
+Creating App :
+
+https://www.youtube.com/watch?v=A71aqufiNtQ
